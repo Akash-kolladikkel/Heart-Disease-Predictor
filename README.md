@@ -10,7 +10,7 @@ Here is the Screenshots of the webapp:
 
 
 ## Dataset
-The Heart Disease dataset, available on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/45/heart+disease), is a comprehensive collection of health-related attributes with a primary focus on heart disease detection. This dataset originally comprises 76 attributes, but research efforts have commonly utilized a subset of 14 key features. Notably, analyses have predominantly centered around the Cleveland database, which stands as the primary resource in the machine learning community.
+The Heart Disease dataset, available on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/45/heart+disease), is a comprehensive collection of health-related attributes with a primary focus on heart disease detection. This dataset originally comprises 76 attributes, but research efforts have commonly utilized a subset of 14 key features. Notably, analyses have predominantly centered around the Cleveland database, which stands as the primary resource in the machine learning community.The "goal" field refers to the presence of heart disease in the patient.  It is integer valued from 0 (no presence) to 4. Experiments with the Cleveland database have concentrated on simply attempting to distinguish presence (values 1,2,3,4) from absence (value 0)
 
 ## Key Features
 - Logistic regression model for heart disease prediction.
